@@ -152,4 +152,13 @@ Each role has access to specific functionalities based on authorization.
 bash
 cd backend
 npm install
+npm run setup-db  #This is to dump pre-data in the database
+npm run dev
+
+
+### Frontend
+
+bash
+cd frontend
+npm install
 npm run dev
